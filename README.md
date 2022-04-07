@@ -8,5 +8,22 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 
 ## 단톡방
 
-## 세션
+## 세션관련
+
+### 1주차
+- [슬라이드](https://bit.ly/3Lki1Ee)
+- [발표영상](https://drive.google.com/file/d/18gu5w2KfBK3aB-tOVpYAKdkuEaFYhwBs/view?usp=sharing)
+
+
+### 2주차
+- [슬라이드](https://bit.ly/3Klhli4)
+- [발표 영상](https://bit.ly/3J7NjwE)
+
+- 언급된 자료들
+  - [CS CrashCourse]https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+  - [서울대 이광근 교수님 수업](https://cse.snu.ac.kr/node/20089)
+  - [AWS를 이용한 데이터 분석 워크숍](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
+  - 취업 준비생 이력서와 블로그 예
+    - [이력서](https://github.com/6058ah)
+    - [블로그](https://6058ah.tistory.com/)
 
