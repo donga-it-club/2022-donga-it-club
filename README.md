@@ -6,6 +6,8 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 
 ## 스터디
 
+- [프론트엔드 스터디](https://yoonsang.notion.site/AWS-6a0d9259bc4f422bba83523d767afd33)
+
 ## 단톡방
 
 ## 세션관련
