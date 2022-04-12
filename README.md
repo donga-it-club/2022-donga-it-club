@@ -35,3 +35,4 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 
 ### 3주차
 - [슬라이드](https://bit.ly/3MfHIqf)
+- [발표 영상](https://bit.ly/3O9F7zU)
