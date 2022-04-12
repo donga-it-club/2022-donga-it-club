@@ -8,6 +8,8 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 - **데이터분석가 그룹 SQL 스터디** (2022.04.12 ~ 진행중)
    - [화요일은 나도 SQL 요리사!](https://github.com/donga-it-club/sql-study)
 
+- [프론트엔드 스터디](https://yoonsang.notion.site/AWS-6a0d9259bc4f422bba83523d767afd33)
+
 ## 단톡방
 
 ## 세션관련
@@ -28,4 +30,8 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
   - 취업 준비생 이력서와 블로그 예
     - [이력서](https://github.com/6058ah)
     - [블로그](https://6058ah.tistory.com/)
+
   - [취업을 위한 여정 / 발표자료 / 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
+
+### 3주차
+- [슬라이드](https://bit.ly/3MfHIqf)
