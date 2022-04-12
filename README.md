@@ -31,5 +31,7 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
     - [이력서](https://github.com/6058ah)
     - [블로그](https://6058ah.tistory.com/)
 
+  - [취업을 위한 여정 / 발표자료 / 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
+
 ### 3주차
 - [슬라이드](https://bit.ly/3MfHIqf)
