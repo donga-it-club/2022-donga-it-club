@@ -44,3 +44,9 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
   - [취업을 위한 포트폴리오 구축법](https://bit.ly/3MfHIqf)
   - [개발자라고 당당하게 소개하기 - 양윤상](https://bit.ly/3E5tLIo)
 - [발표 영상](https://bit.ly/3O9F7zU)
+
+## 잔디심기 현황
+
+[양윤상](https://github.com/yanggak12/)  
+![https://github.com/yanggak12/](https://raw.githubusercontent.com/yanggak12/yanggak12/05153e3536c19f37809e0b9597a65531d4d43ad5/github-metrics.svg)
+
