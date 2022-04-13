@@ -20,7 +20,9 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 
 
 ### 2주차
-- [슬라이드](https://bit.ly/3Klhli4)
+- 슬라이드
+  - [취업을 위한 이력서와 경력 만들기](https://bit.ly/3Klhli4
+  - [취업을 위한 여정 - 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
 - [발표 영상](https://bit.ly/3J7NjwE)
 
 - 언급된 자료들
@@ -34,5 +36,7 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
   - [취업을 위한 여정 / 발표자료 / 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
 
 ### 3주차
-- [슬라이드](https://bit.ly/3MfHIqf)
+- 슬라이드
+  - [취업을 위한 포트폴리오 구축법](https://bit.ly/3MfHIqf)
+  - [개발자라고 당당하게 소개하기](https://bit.ly/3E5tLIo)
 - [발표 영상](https://bit.ly/3O9F7zU)
