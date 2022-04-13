@@ -44,6 +44,6 @@
 
 ## 잔디심기 현황
 
-[양윤상](https://github.com/yanggak12/)  
-![https://github.com/yanggak12/](https://raw.githubusercontent.com/yanggak12/yanggak12/05153e3536c19f37809e0b9597a65531d4d43ad5/github-metrics.svg)
+[이시연](https://github.com/datasiyeon)  
+![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
 
