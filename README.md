@@ -27,7 +27,7 @@ Pull Request에 익숙해 지기 위해 가능하면 직접 커밋보다는 브�
 
 ### 2주차
 - 슬라이드
-  - [취업을 위한 이력서와 경력 만들기](https://bit.ly/3Klhli4
+  - [취업을 위한 이력서와 경력 만들기](https://bit.ly/3Klhli4)
   - [취업을 위한 여정 - 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
 - [발표 영상](https://bit.ly/3J7NjwE)
 
