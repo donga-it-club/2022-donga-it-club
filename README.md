@@ -78,3 +78,6 @@
 
 - [김기흥](https://github.com/KimGiheung) - MLOps 엔지니어 지망  
 ![https://github.com/KimGiheung](https://raw.githubusercontent.com/KimGiheung/KimGiheung/4cab7c78aed66b38a5bfe78eac8e704ba81419f0/github-metrics.svg)
+
+- [박보민](https://github.com/bomin_0316) - 데이터 분석가 지망
+![https://github.com/bomin_0316](https://raw.githubusercontent.com/bomin0316/bomin0316/af67797fad8755d8bfaf15d346bbb6163c2fc896/github-metrics.svg)
