@@ -81,3 +81,6 @@
 
 - [박보민](https://github.com/bomin0316) - 데이터 분석가 지망  
 ![https://github.com/bomin0316](https://raw.githubusercontent.com/bomin0316/bomin0316/af67797fad8755d8bfaf15d346bbb6163c2fc896/github-metrics.svg)
+
+- [서소빈](https://github.com/beeen00) - 데이터 분석가 지망  
+![https://github.com/beeen00](https://raw.githubusercontent.com/beeen00/beeen00/b100dbebec1047b442ed97efa79709d9fa8fa57c/github-metrics.svg)
