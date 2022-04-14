@@ -52,7 +52,7 @@
 - [이시연](https://github.com/datasiyeon) - 데이터 분석가 지망  
 ![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
 
-- [양윤상](https://github.com/yanggak12) - 백엔드 개발자 지망  
+- [양윤상](https://github.com/yanggak12) - 프론트엔드 개발자 지망  
 ![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
 
 - [권미정](https://github.com/kmj-1616) - 데이터 분석가 지망  
