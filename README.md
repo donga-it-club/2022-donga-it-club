@@ -44,6 +44,11 @@
 
 ## 잔디심기 현황
 
+> 잔디 심기 현황 이미지 주소는 github-metrics.svg를 클릭한 후에 **이미지 주소 복사**를 선택해 주세요.
+![image](https://user-images.githubusercontent.com/3435720/163288750-cc4df455-2a31-4be6-a5f7-843b2326875d.png)
+
+
+
 [이시연](https://github.com/datasiyeon)  
 ![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
 
