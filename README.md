@@ -33,8 +33,8 @@
   - [서울대 이광근 교수님 수업](https://cse.snu.ac.kr/node/20089)
   - [AWS를 이용한 데이터 분석 워크숍](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
   - 취업 준비생 이력서와 블로그 예
-    - [이력서](https://github.com/6058ah)
-    - [블로그](https://6058ah.tistory.com/)
+    - [이력서 작성예](https://github.com/donga-it-club/donga-it-club/blob/main/resume_sample.md)
+    - [블로그 예](https://6058ah.tistory.com/)
 
 ### 3주차
 - 슬라이드
