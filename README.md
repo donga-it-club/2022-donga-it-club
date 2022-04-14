@@ -76,5 +76,5 @@
 - [하은지](https://github.com/EunByu1) - MLOps 엔지니어 지망  
 ![https://github.com/EunByu1](https://raw.githubusercontent.com/EunByu1/EunByu1/fd50f1e126aa25cc6e91cd096790ad75f91721b0/github-metrics.svg)  
 
-- [김기흥](https://github.com/KimGiheung) - 인공지능 개발자 지망  
-![https://github.com/KimGiheung](https://raw.githubusercontent.com/KimGiheung/KimGiheung/151e9fb21ba2a5090483c5b902594c0961e933f2/github-metrics.svg)
+- [김기흥](https://github.com/KimGiheung) - MLOps 엔지니어 지망  
+![https://github.com/KimGiheung](https://raw.githubusercontent.com/KimGiheung/KimGiheung/4cab7c78aed66b38a5bfe78eac8e704ba81419f0/github-metrics.svg)
