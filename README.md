@@ -57,4 +57,3 @@
 
 [권미정](https://github.com/kmj-1616)
 ![https://github.com/kmj-1616](https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg)
-![https://github.com/kmj-1616](https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg)
