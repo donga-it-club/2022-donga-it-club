@@ -54,3 +54,5 @@
 
 [양윤상](https://github.com/yanggak12)  
 ![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
+
+https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg
