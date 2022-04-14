@@ -63,3 +63,6 @@
 
 - [주은진](https://github.com/dunedine) - 데이터 분석가 지망  
 ![https://github.com/dunedine](https://raw.githubusercontent.com/dunedine/dunedine/3bff63a19038881fdb22b3a54994eaaffe1e8202/github-metrics.svg)
+
+- [이준호](https://github.com/junojano) - 데이터 분석가 지망  
+- ![https://github.com/junojano](https://raw.githubusercontent.com/junojano/junojano/ed68edd00ac7414230357b56baae9c2f3d4e24dd/github-metrics.svg)   
