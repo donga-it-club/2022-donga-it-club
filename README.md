@@ -44,17 +44,16 @@
 
 ## 잔디심기 현황
 
-> 잔디 심기 현황 이미지 주소는 github-metrics.svg를 클릭한 후에 **이미지 주소 복사**를 선택해 주세요.
+> 잔디 심기 현황 이미지 주소는 github-metrics.svg를 클릭한 후에 **이미지 주소 복사**를 선택해 주세요.  
 ![image](https://user-images.githubusercontent.com/3435720/163288750-cc4df455-2a31-4be6-a5f7-843b2326875d.png)
+> github-metrics.svg 앞에 이름과 지망하는 분야를 적어주시고 맨 뒤에는 스페이스를 두 개 넣으셔야 제대로 표시됩니다! (안그러면 이미지가 나오고 그 다음에 이름이 나와요)  
+예) ![image](https://user-images.githubusercontent.com/3435720/163311973-8d35e9c1-edd8-48c4-99d0-3af66862f59e.png)
 
-
-
-[이시연](https://github.com/datasiyeon)  
+- [이시연](https://github.com/datasiyeon) - 데이터 분석가 지망  
 ![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
 
-[양윤상](https://github.com/yanggak12)  
+- [양윤상](https://github.com/yanggak12) - 백엔드 개발자 지망  
 ![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
 
-[권미정](https://github.com/kmj-1616)
-
+- [권미정](https://github.com/kmj-1616) - 데이터 분석가 지망  
 ![https://github.com/kmj-1616](https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg)
