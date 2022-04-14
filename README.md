@@ -57,3 +57,6 @@
 
 - [권미정](https://github.com/kmj-1616) - 데이터 분석가 지망  
 ![https://github.com/kmj-1616](https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg)
+
+- [김홍원](https://github.com/hongwon2) - 데이터 분석가 지망  
+![https://github.com/hongwon2](https://raw.githubusercontent.com/hongwon2/hongwon2/c1d02c25806147438f1ff74e5f39db9830bf982d/github-metrics.svg)
