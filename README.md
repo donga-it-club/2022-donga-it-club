@@ -71,7 +71,7 @@
 ![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/raw/main/github-metrics.svg)
 
 - [도기범](https://github.com/GBDO) - 데이터 분석가 지망  
-![https://github.com/GBDO](https://raw.githubusercontent.com/GBDO/GBDO/8829919c678d65a0ae22488fb930c8faa75579fd/metrics.plugin.isocalendar.fullyear.svg)
+![https://github.com/GBDO](https://raw.githubusercontent.com/GBDO/GBDO/8829919c678d65a0ae22488fb930c8faa75579fd/metrics.plugin.isocalendar.fullyear.svg)  
 
-- [하은지](https://github.com/EunByu1) - 인공지능 개발자 지망 
+- [하은지](https://github.com/EunByu1) - 인공지능 개발자 지망  
 ![https://github.com/EunByu1](https://raw.githubusercontent.com/EunByu1/EunByu1/fd50f1e126aa25cc6e91cd096790ad75f91721b0/github-metrics.svg)
