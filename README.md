@@ -52,3 +52,5 @@
 [이시연](https://github.com/datasiyeon)  
 ![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
 
+[양윤상](https://github.com/yanggak12)
+![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
