@@ -100,3 +100,6 @@
 
 - [이소정](https://github.com/SoJeOnG52) - 데이터 분석가 지망   
 ![https://github.com/SoJeOnG52](https://raw.githubusercontent.com/SoJeOnG52/SoJeOnG52/165fe4210a3dd24deb0c364301400fa805c865e1/github-metrics.svg)
+
+- [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
+![https://github.com/gongboogi](https://raw.githubusercontent.com/gongboogi/gongboogi/94c1b9dc73b4ae5e0592a01d561cd58dfd1a3d13/github-metrics.svg)
