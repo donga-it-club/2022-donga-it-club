@@ -18,13 +18,14 @@
 ## 세션관련
 
 ### 1주차
-- [슬라이드](https://bit.ly/3Lki1Ee)
+- 슬라이드
+  - [내가 진짜로 원하는게 뭘까? - 정도현](https://bit.ly/3Lki1Ee)
 - [발표영상](https://drive.google.com/file/d/18gu5w2KfBK3aB-tOVpYAKdkuEaFYhwBs/view?usp=sharing)
 
 
 ### 2주차
 - 슬라이드
-  - [취업을 위한 이력서와 경력 만들기](https://bit.ly/3Klhli4)
+  - [취업을 위한 이력서와 경력 만들기 - 정도현](https://bit.ly/3Klhli4)
   - [취업을 위한 여정 - 황진성](https://www.slideshare.net/secret/42sXSD0I3Vc7WJ)
 - [발표 영상](https://bit.ly/3J7NjwE)
 
@@ -38,7 +39,7 @@
 
 ### 3주차
 - 슬라이드
-  - [취업을 위한 포트폴리오 구축법](https://bit.ly/3MfHIqf)
+  - [취업을 위한 포트폴리오 구축법 - 정도현](https://bit.ly/3MfHIqf)
   - [개발자라고 당당하게 소개하기 - 양윤상](https://bit.ly/3E5tLIo)
 - [발표 영상](https://bit.ly/3O9F7zU)
 
