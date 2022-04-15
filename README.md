@@ -100,4 +100,7 @@
   
 - [김유희](https://github.com/hapen7535) - 프론트 엔드, 안드로이드 개발자 지망  
 ![https://github.com/hapen7535](https://raw.githubusercontent.com/hapen7535/hapen7535/e1c30cd519e6e05dcfad3ff7a1896c808a945b87/github-metrics.svg)  
+  
+- [이소정](https://github.com/SoJeOnG52) - 데이터 분석가 지망   
+![https://github.com/SoJeOnG52](https://raw.githubusercontent.com/SoJeOnG52/SoJeOnG52/165fe4210a3dd24deb0c364301400fa805c865e1/github-metrics.svg)
 
