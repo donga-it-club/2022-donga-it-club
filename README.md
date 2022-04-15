@@ -80,14 +80,17 @@
 - [김기흥](https://github.com/KimGiheung) - MLOps 엔지니어 지망  
 ![https://github.com/KimGiheung](https://raw.githubusercontent.com/KimGiheung/KimGiheung/4cab7c78aed66b38a5bfe78eac8e704ba81419f0/github-metrics.svg)
 
+- [강인영](https://github.com/kio15978) - 데이터 분석가 지망  
+![https://github.com/kio15978](https://github.com/kio15978/kio15978/raw/main/github-metrics.svg)
+
 - [박보민](https://github.com/bomin0316) - 데이터 분석가 지망  
 ![https://github.com/bomin0316](https://raw.githubusercontent.com/bomin0316/bomin0316/af67797fad8755d8bfaf15d346bbb6163c2fc896/github-metrics.svg)
 
 - [서소빈](https://github.com/beeen00) - 데이터 분석가 지망  
 ![https://github.com/beeen00](https://raw.githubusercontent.com/beeen00/beeen00/b100dbebec1047b442ed97efa79709d9fa8fa57c/github-metrics.svg)
 
--[정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
+- [정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
 ![https://github.com/pos1504](https://raw.githubusercontent.com/pos1504/pos1504/b54bc01c61b62093a0637e340a0f0f98fe7162f7/github-metrics.svg)
 
--[고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
+- [고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
 ![https://github.com/KoGJ95](https://raw.githubusercontent.com/KoGJ95/KoGJ95/1320fd384f74dd8472f25dbd79c4c5594400020b/github-metrics.svg)
