@@ -94,6 +94,10 @@
 
 - [고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
 ![https://github.com/KoGJ95](https://raw.githubusercontent.com/KoGJ95/KoGJ95/1320fd384f74dd8472f25dbd79c4c5594400020b/github-metrics.svg)
+
+- [이해강](https://github.com/leehg9805) - 데이터 분석가 지망  
+![https://github.com/leehg9805](https://raw.githubusercontent.com/leehg9805/leehg9805/10b2c00b397c45448cbfc86a3d2ff23fe6899ce7/github-metrics.svg)
   
 - [김유희](https://github.com/hapen7535) - 프론트 엔드, 안드로이드 개발자 지망  
 ![https://github.com/hapen7535](https://raw.githubusercontent.com/hapen7535/hapen7535/e1c30cd519e6e05dcfad3ff7a1896c808a945b87/github-metrics.svg)  
+
