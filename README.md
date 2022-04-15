@@ -88,3 +88,6 @@
 
 -[정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
 ![https://github.com/pos1504](https://raw.githubusercontent.com/pos1504/pos1504/b54bc01c61b62093a0637e340a0f0f98fe7162f7/github-metrics.svg)
+
+-[고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
+![https://github.com/KoGJ95](https://raw.githubusercontent.com/KoGJ95/KoGJ95/1320fd384f74dd8472f25dbd79c4c5594400020b/github-metrics.svg)
