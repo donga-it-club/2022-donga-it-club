@@ -85,3 +85,6 @@
 
 - [서소빈](https://github.com/beeen00) - 데이터 분석가 지망  
 ![https://github.com/beeen00](https://raw.githubusercontent.com/beeen00/beeen00/b100dbebec1047b442ed97efa79709d9fa8fa57c/github-metrics.svg)
+
+-[정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
+![https://github.com/pos1504](https://raw.githubusercontent.com/pos1504/pos1504/b54bc01c61b62093a0637e340a0f0f98fe7162f7/github-metrics.svg)
