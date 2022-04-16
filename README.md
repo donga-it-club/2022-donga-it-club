@@ -103,3 +103,8 @@
 
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
 ![https://github.com/gongboogi](https://raw.githubusercontent.com/gongboogi/gongboogi/94c1b9dc73b4ae5e0592a01d561cd58dfd1a3d13/github-metrics.svg)
+
+- [신상훈](https://github.com/rhfo124) - 프론트엔드 개발자 지망  
+![https://github.com/rhfo124](https://raw.githubusercontent.com/rhfo124/rhfo124/7a9651b3093dd2d46245e553d7ac2acf14a83b83/github-metrics.svg) 
+
+
