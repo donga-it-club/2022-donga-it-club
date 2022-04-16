@@ -106,4 +106,6 @@
   
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
 ![https://github.com/gongboogi](https://raw.githubusercontent.com/gongboogi/gongboogi/94c1b9dc73b4ae5e0592a01d561cd58dfd1a3d13/github-metrics.svg)
-
+  
+- [김예나](https://github.com/yeneua) - 데이터 분석가 지망  
+![https://github.com/yeneua](https://github.com/yeneua/yeneua/raw/main/github-metrics.svg)
