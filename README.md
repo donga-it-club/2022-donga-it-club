@@ -14,6 +14,7 @@
 - [더 북 - 길벗이 제공하는 도서 열람서비스](https://thebook.io )
 - [2022 전자정부 표준프레임워크 컨트리뷰션 참가자 모집](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1849)
 - [30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’](https://youtu.be/_g29ihPpDnE)
+- [DACON - 데이터분석 대회 모음 사이트](https://dacon.io/) 
 
 ## 세션관련
 
@@ -106,6 +107,10 @@
   
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
 ![https://github.com/gongboogi](https://raw.githubusercontent.com/gongboogi/gongboogi/94c1b9dc73b4ae5e0592a01d561cd58dfd1a3d13/github-metrics.svg)
-  
+
+- [신상훈](https://github.com/rhfo124) - 프론트엔드 개발자 지망  
+![https://github.com/rhfo124](https://raw.githubusercontent.com/rhfo124/rhfo124/7a9651b3093dd2d46245e553d7ac2acf14a83b83/github-metrics.svg) 
+
 - [김예나](https://github.com/yeneua) - 데이터 분석가 지망  
 ![https://github.com/yeneua](https://github.com/yeneua/yeneua/raw/main/github-metrics.svg)
+
