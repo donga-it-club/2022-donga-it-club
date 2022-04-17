@@ -98,10 +98,13 @@
 
 - [이해강](https://github.com/leehg9805) - 데이터 분석가 지망  
 ![https://github.com/leehg9805](https://raw.githubusercontent.com/leehg9805/leehg9805/10b2c00b397c45448cbfc86a3d2ff23fe6899ce7/github-metrics.svg)
-
+  
+- [김유희](https://github.com/hapen7535) - 프론트 엔드, 안드로이드 개발자 지망  
+![https://github.com/hapen7535](https://raw.githubusercontent.com/hapen7535/hapen7535/e1c30cd519e6e05dcfad3ff7a1896c808a945b87/github-metrics.svg)  
+  
 - [이소정](https://github.com/SoJeOnG52) - 데이터 분석가 지망   
 ![https://github.com/SoJeOnG52](https://raw.githubusercontent.com/SoJeOnG52/SoJeOnG52/165fe4210a3dd24deb0c364301400fa805c865e1/github-metrics.svg)
-
+  
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
 ![https://github.com/gongboogi](https://raw.githubusercontent.com/gongboogi/gongboogi/94c1b9dc73b4ae5e0592a01d561cd58dfd1a3d13/github-metrics.svg)
 
