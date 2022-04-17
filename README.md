@@ -46,8 +46,6 @@
 
 ## 잔디심기 현황
 
-> 잔디 심기 현황 이미지 주소는 github-metrics.svg를 클릭한 후에 **이미지 주소 복사**를 선택해 주세요.  
-![image](https://user-images.githubusercontent.com/3435720/163288750-cc4df455-2a31-4be6-a5f7-843b2326875d.png)
 > github-metrics.svg 앞에 이름과 지망하는 분야를 적어주시고 맨 뒤에는 스페이스를 두 개 넣으셔야 제대로 표시됩니다! (안그러면 이미지가 나오고 그 다음에 이름이 나와요)  
 예) ![image](https://user-images.githubusercontent.com/3435720/163311973-8d35e9c1-edd8-48c4-99d0-3af66862f59e.png)
 
