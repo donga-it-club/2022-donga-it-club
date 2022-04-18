@@ -7,6 +7,9 @@
 
 - [프론트엔드 스터디](https://yoonsang.notion.site/AWS-6a0d9259bc4f422bba83523d767afd33)
 
+-**Machine-Learning 스터디 (2022.05 ~ 진행 예정)
+  - 추후 링크 추가 
+
 
 ## 단톡방
 - [오픈소스 시작하기](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html)
