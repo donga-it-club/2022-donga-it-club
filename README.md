@@ -54,19 +54,19 @@
 예) ![image](https://user-images.githubusercontent.com/3435720/163311973-8d35e9c1-edd8-48c4-99d0-3af66862f59e.png)
 
 - [이시연](https://github.com/datasiyeon) - 데이터 분석가 지망  
-![https://github.com/datasiyeon](https://raw.githubusercontent.com/datasiyeon/datasiyeon/87eb3595acff7f05329ef9310d7ac529310331a4/github-metrics.svg)
+![https://github.com/datasiyeon](https://github.com/datasiyeon/datasiyeon/raw/main/github-metrics.svg)
 
 - [양윤상](https://github.com/yanggak12) - 프론트엔드 개발자 지망  
 ![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
 
 - [권미정](https://github.com/kmj-1616) - 데이터 분석가 지망  
-![https://github.com/kmj-1616](https://raw.githubusercontent.com/kmj-1616/kmj-1616/7fea8083b9337f86ee50824fc3c1ec5e79ae6c7f/github-metrics.svg)
+![https://github.com/kmj-1616](https://github.com/kmj-1616/kmj-1616/raw/main/github-metrics.svg)
 
 - [김홍원](https://github.com/hongwon2) - 데이터 분석가 지망  
 ![https://github.com/hongwon2](https://github.com/hongwon2/hongwon2/raw/main/github-metrics.svg)
 
 - [주은진](https://github.com/dunedine) - 데이터 분석가 지망  
-![https://github.com/dunedine](https://raw.githubusercontent.com/dunedine/dunedine/3bff63a19038881fdb22b3a54994eaaffe1e8202/github-metrics.svg)
+![https://github.com/dunedine](https://github.com/dunedine/dunedine/raw/main/github-metrics.svg)
 
 - [이준호](https://github.com/junojano) - 데이터 분석가 지망  
 ![https://github.com/junojano](https://github.com/junojano/junojano/raw/main/github-metrics.svg)  
@@ -78,34 +78,34 @@
 ![https://github.com/GBDO](https://github.com/GBDO/GBDO/raw/main/metrics.plugin.isocalendar.fullyear.svg)
 
 - [하은지](https://github.com/EunByu1) - MLOps 엔지니어 지망  
-![https://github.com/EunByu1](https://raw.githubusercontent.com/EunByu1/EunByu1/fd50f1e126aa25cc6e91cd096790ad75f91721b0/github-metrics.svg)  
+![https://github.com/EunByu1](https://github.com/EunByu1/EunByu1/raw/main/github-metrics.svg)  
 
 - [김기흥](https://github.com/KimGiheung) - MLOps 엔지니어 지망  
-![https://github.com/KimGiheung](https://raw.githubusercontent.com/KimGiheung/KimGiheung/4cab7c78aed66b38a5bfe78eac8e704ba81419f0/github-metrics.svg)
+![https://github.com/KimGiheung](https://github.com/KimGiheung/KimGiheung/raw/main/github-metrics.svg)
 
 - [강인영](https://github.com/kio15978) - 데이터 분석가 지망  
 ![https://github.com/kio15978](https://github.com/kio15978/kio15978/raw/main/github-metrics.svg)
 
 - [박보민](https://github.com/bomin0316) - 데이터 분석가 지망  
-![https://github.com/bomin0316](https://raw.githubusercontent.com/bomin0316/bomin0316/af67797fad8755d8bfaf15d346bbb6163c2fc896/github-metrics.svg)
+![https://github.com/bomin0316](https://github.com/bomin0316/bomin0316/raw/main/github-metrics.svg)
 
 - [서소빈](https://github.com/beeen00) - 데이터 분석가 지망  
-![https://github.com/beeen00](https://raw.githubusercontent.com/beeen00/beeen00/b100dbebec1047b442ed97efa79709d9fa8fa57c/github-metrics.svg)
+![https://github.com/beeen00](https://github.com/beeen00/beeen00/raw/main/github-metrics.svg)
 
 - [정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
-![https://github.com/pos1504](https://raw.githubusercontent.com/pos1504/pos1504/b54bc01c61b62093a0637e340a0f0f98fe7162f7/github-metrics.svg)
+![https://github.com/pos1504](https://github.com/pos1504/pos1504/raw/main/github-metrics.svg)
 
 - [고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
-![https://github.com/KoGJ95](https://raw.githubusercontent.com/KoGJ95/KoGJ95/1320fd384f74dd8472f25dbd79c4c5594400020b/github-metrics.svg)
+![https://github.com/KoGJ95](https://github.com/KoGJ95/KoGJ95/raw/main/github-metrics.svg)
 
 - [이해강](https://github.com/leehg9805) - 데이터 분석가 지망  
-![https://github.com/leehg9805](https://raw.githubusercontent.com/leehg9805/leehg9805/10b2c00b397c45448cbfc86a3d2ff23fe6899ce7/github-metrics.svg)
+![https://github.com/leehg9805](https://github.com/leehg9805/leehg9805/raw/main/github-metrics.svg)
   
 - [김유희](https://github.com/hapen7535) - 프론트 엔드, 안드로이드 개발자 지망  
-![https://github.com/hapen7535](https://raw.githubusercontent.com/hapen7535/hapen7535/e1c30cd519e6e05dcfad3ff7a1896c808a945b87/github-metrics.svg)  
+![https://github.com/hapen7535](https://github.com/hapen7535/hapen7535/raw/main/github-metrics.svg)  
   
 - [이소정](https://github.com/SoJeOnG52) - 데이터 분석가 지망   
-![https://github.com/SoJeOnG52](https://raw.githubusercontent.com/SoJeOnG52/SoJeOnG52/165fe4210a3dd24deb0c364301400fa805c865e1/github-metrics.svg)
+![https://github.com/SoJeOnG52](https://github.com/SoJeOnG52/SoJeOnG52/raw/main/github-metrics.svg)
   
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
 ![https://github.com/gongboogi](https://github.com/gongboogi/gongboogi/raw/main/github-metrics.svg)
