@@ -74,7 +74,8 @@
     -  [세상에서 가장 쉬운 통계학 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788990994004)
     -  [세상에서 가장 쉬운 베이즈통계학 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965022718)
     -  [파이썬으로 풀어보는 2017년도 대입 수능시험 수학문제](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA/blob/master/2017_CSAT_Mathematics_Type_GA.ipynb)
-  -  [Github 블로그에 Google Analytics 사용하기](https://jsy1110.github.io/2022/google-analytics/)
+  -  [Github 블로그에 Google Analytics 사용하기](https://jsy1110.github.io/2022/google-analytics/) - 구글 
+  -  [Github 블로그 검색엔진 최적화](https://vvcdcode.github.io/2019/08/15/jekyll-seo.html)
 
 ## 잔디심기 현황
 
