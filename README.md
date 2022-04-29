@@ -145,6 +145,6 @@
 - [김예나](https://github.com/yeneua) - 데이터 분석가 지망  
 ![https://github.com/yeneua](https://github.com/yeneua/yeneua/raw/main/github-metrics.svg)
 
-- [황진성](https://github.com/JinseongHwang) - 백엔드+DevOps 개발자 지망
+- [황진성](https://github.com/JinseongHwang) - 백엔드+DevOps 개발자 지망    
 ![metrics](https://github.com/JinseongHwang/JinseongHwang/raw/master/github-metrics.svg)
 
