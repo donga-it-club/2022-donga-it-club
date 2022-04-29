@@ -154,5 +154,5 @@
 - [안주형](https://github.com/dkswnkk) - 백엔드 개발자 지망    
 ![https://github.com/dkswnkk](https://github.com/dkswnkk/dkswnkk/raw/master/github-metrics.svg)
 
-- [공정민](https://github.com/jeongmin59) - 데이터 분석가  
+- [공정민](https://github.com/jeongmin59) - 데이터 분석가 지망  
 ![https://github.com/jeongmin59](https://github.com/jeongmin59/jeongmin59/blob/main/github-metrics.svg)
