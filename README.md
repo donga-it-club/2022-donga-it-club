@@ -148,3 +148,5 @@
 - [황진성](https://github.com/JinseongHwang) - 백엔드+DevOps 개발자 지망    
 ![metrics](https://github.com/JinseongHwang/JinseongHwang/raw/master/github-metrics.svg)
 
+- [신정은](https://github.com/jeongeun2017575) - 데이터 분석가 지망  
+![https://github.com/jeongeun2017575](https://github.com/jeongeun2017575/jeongeun2017575/raw/main/github-metrics.svg)
