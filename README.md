@@ -24,6 +24,10 @@
 - [AWS Summit Korea](https://aws.amazon.com/ko/events/summits/korea/)
 - [2021 Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2021)
 - [2022년 프로그래머스 개발자 설문 결과](https://programmers.co.kr/pages/2022-dev-survey) - 내 주변의 개발자들은 어떤 기술을 쓰고, 어떻게 커리어를 쌓고 있을까요? 프로그래머스 팀은 우리나라 개발자들의 생각을 보여주는 개발자 설문조사 리포트를 만들기 위해 매년 설문조사를 진행합니다.
+- [깃헙 프로파일 꾸미기](https://github.com/donga-it-club/2022-donga-it-club)
+- [NC Soft에서 공개한 게임 데이터](https://danbi-ncsoft.github.io/OpenData/)
+- [프론트엔드의 재사용성을 높이는 디자인 시스템](https://youtu.be/HQktfrNBZV4)
+- [열심히 하지 말고 그냥 하기](https://www.youtube.com/watch?v=3nHyLnpBBGw)
 
 ## 세션관련
 
@@ -64,7 +68,7 @@
 
 ### 4주차
 - 슬라이드
-  - [전문가가 되는법](https://bit.ly/3xDIrx7)
+  - [전문가가 되는법 - 정도현](https://bit.ly/3xDIrx7)
 - [발표 영상](https://bit.ly/3JTLSlP)
 - 언급된 자료들
   -  [소프트뱅크 손정의 회장의 성공전략, 고속PDCA](https://www.youtube.com/watch?v=uqNkEWf4iJA)
@@ -76,6 +80,15 @@
     -  [파이썬으로 풀어보는 2017년도 대입 수능시험 수학문제](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA/blob/master/2017_CSAT_Mathematics_Type_GA.ipynb)
   -  [Github 블로그에 Google Analytics 사용하기](https://jsy1110.github.io/2022/google-analytics/) - 구글 
   -  [Github 블로그 검색엔진 최적화](https://vvcdcode.github.io/2019/08/15/jekyll-seo.html)
+
+### 5주차
+- 슬라이드
+  - [기술면접 준비하기 - 황진성](https://www.slideshare.net/secret/MeP3sRRwNgCcwl)
+  - [설문조사 결과와 앞으로의 계획 - ](https://bit.ly/3rU9Kjg)
+- [발표영상](https://github.com/donga-it-club/2022-donga-it-club)
+- 언급된 자료들
+  - [2022년 프로그래머스 개발자 설문 결과](https://programmers.co.kr/pages/2022-dev-survey) - 신입 개발자들은 연봉을 얼마나 받을까요?
+  - [깃헙 프로파일 꾸미기](https://github.com/donga-it-club/2022-donga-it-club)
 
 ## 잔디심기 현황
 
