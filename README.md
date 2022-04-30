@@ -157,5 +157,5 @@
 - [공정민](https://github.com/jeongmin59) - 데이터 분석가 지망  
 ![https://github.com/jeongmin59](https://github.com/jeongmin59/jeongmin59/blob/main/github-metrics.svg)
 
-- [박다산](https://github.com/daa012) - 프론트엔드 개발자 지망
+- [박다산](https://github.com/daa012) - 프론트엔드 개발자 지망  
 ![https://github.com/daa012](https://github.com/daa012/daa012/blob/main/github-metrics.svg)  
