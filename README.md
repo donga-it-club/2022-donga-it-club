@@ -149,7 +149,7 @@
 ![https://github.com/JinseongHwang](https://github.com/JinseongHwang/JinseongHwang/raw/master/github-metrics.svg)
 
 - [신정은](https://github.com/jeongeun2017575) - 데이터 분석가 지망  
-![https://github.com/jeongeun2017575](https://github.com/jeongeun2017575/jeongeun2017575/raw/main/github-metrics.svg)
+![https://github.com/jeongeun2017575](https://github.com/jeongeun2017575/jeongeun2017575/raw/master/github-metrics.svg)
 
 - [안주형](https://github.com/dkswnkk) - 백엔드 개발자 지망    
 ![https://github.com/dkswnkk](https://github.com/dkswnkk/dkswnkk/raw/master/github-metrics-dkswnkk-sub.svg)
