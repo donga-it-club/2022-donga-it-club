@@ -175,3 +175,6 @@
 
 - [박선하](https://github.com/sunha0915) - 데이터 분석가 지망  
 ![https://github.com/sunha0915](https://github.com/sunha0915/sunha0915/blob/main/github-metrics.svg)
+
+- [박준석](https://github.com/Junseokee) - 데이터 분석가 지망  
+![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/blob/main/github-metrics.svg)
