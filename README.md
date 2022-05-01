@@ -176,5 +176,5 @@
 - [박선하](https://github.com/sunha0915) - 데이터 분석가 지망  
 ![https://github.com/sunha0915](https://github.com/sunha0915/sunha0915/blob/main/github-metrics.svg)
 
-- [김보경](https://github.com/BooGyya) - 데이터 분석가 지망
+- [김보경](https://github.com/BooGyya) - 데이터 분석가 지망  
 ![https://github.com/BooGyya/](https://github.com/BooGyya/BooGyya/blob/main/github-metrics.svg)
