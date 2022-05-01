@@ -181,3 +181,6 @@
 
 - [김보경](https://github.com/BooGyya) - 데이터 분석가 지망  
 ![https://github.com/BooGyya](https://github.com/BooGyya/BooGyya/blob/main/github-metrics.svg)
+
+- [김가현](https://github.com/GayaKim) - 데이터 분석가 지망  
+![https://github.com/GayaKim](https://github.com/GayaKim/GayaKim/raw/main/github-metrics.svg)
