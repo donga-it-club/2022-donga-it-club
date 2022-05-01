@@ -178,3 +178,6 @@
 
 - [박준석](https://github.com/Junseokee) - 데이터 분석가 지망  
 ![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/blob/main/github-metrics.svg)
+
+- [김보경](https://github.com/BooGyya) - 데이터 분석가 지망  
+![https://github.com/BooGyya](https://github.com/BooGyya/BooGyya/blob/main/github-metrics.svg)
