@@ -172,3 +172,6 @@
 
 - [박다산](https://github.com/daa012) - 프론트엔드 개발자 지망  
 ![https://github.com/daa012](https://github.com/daa012/daa012/blob/main/github-metrics.svg)  
+
+- [박선하](https://github.com/sunha0915) - 데이터 분석가 지망
+![https://github.com/sunha0915](https://github.com/sunha0915/sunha0915/blob/main/github-metrics.svg)
