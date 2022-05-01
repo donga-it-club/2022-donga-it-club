@@ -184,3 +184,6 @@
 
 - [김가현](https://github.com/GayaKim) - 데이터 분석가 지망  
 ![https://github.com/GayaKim](https://github.com/GayaKim/GayaKim/raw/main/github-metrics.svg)
+
+- [문송이](https://github.com/songi061) - 데이터 분석가 지망  
+![https://github.com/songi061](https://github.com/songi061/songi061/raw/main/github-metrics.svg)
