@@ -187,3 +187,6 @@
 
 - [문송이](https://github.com/songi061) - 데이터 분석가 지망  
 ![https://github.com/songi061](https://github.com/songi061/songi061/raw/main/github-metrics.svg)
+
+- [이가은](https://github.com/gaeun0915) - 데이터 분석가 지망  
+![https://github.com/gaeun0915](https://github.comg/gaeun0915/gaeun0915/raw/main/github-metrics.svg)
