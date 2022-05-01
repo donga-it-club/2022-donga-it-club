@@ -177,7 +177,7 @@
 ![https://github.com/sunha0915](https://github.com/sunha0915/sunha0915/blob/main/github-metrics.svg)
 
 - [박준석](https://github.com/Junseokee) - 데이터 분석가 지망  
-![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/blob/main/github-metrics.svg)
+![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/raw/main/github-metrics.svg)
 
 - [김보경](https://github.com/BooGyya) - 데이터 분석가 지망  
 ![https://github.com/BooGyya](https://github.com/BooGyya/BooGyya/blob/main/github-metrics.svg)
