@@ -84,7 +84,7 @@
 ### 5주차
 - 슬라이드
   - [기술면접 준비하기 - 황진성](https://www.slideshare.net/secret/MeP3sRRwNgCcwl)
-  - [설문조사 결과와 앞으로의 계획 - ](https://bit.ly/3rU9Kjg)
+  - [설문조사 결과와 앞으로의 계획 - 정도현](https://bit.ly/3rU9Kjg)
 - [발표영상](https://github.com/donga-it-club/2022-donga-it-club)
 - 언급된 자료들
   - [2022년 프로그래머스 개발자 설문 결과](https://programmers.co.kr/pages/2022-dev-survey) - 신입 개발자들은 연봉을 얼마나 받을까요?
