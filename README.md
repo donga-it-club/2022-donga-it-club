@@ -9,6 +9,8 @@
 
 - Machine-Learning 스터디 (2022.05 ~ 진행 예정)
   - 추후 링크 추가 
+ 
+- [알고리즘 스터디](https://github.com/donga-it-club/Algorithm-Study) (2022.05.01 ~ )
 
 
 ## 단톡방 정보들
