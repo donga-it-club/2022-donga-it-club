@@ -11,6 +11,8 @@
  
 - [알고리즘 스터디](https://github.com/donga-it-club/Algorithm-Study) (2022.05.01 ~ )
 
+- [Backend + DevOps 스터디](https://github.com/donga-it-club/Backend-DevOps-Study) (2022.05.07 ~)
+
 
 ## 단톡방 정보들
 - [오픈소스 시작하기](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html)
