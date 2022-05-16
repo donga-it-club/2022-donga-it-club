@@ -6,8 +6,8 @@
 
 - [프론트엔드 스터디](https://yoonsang.notion.site/AWS-6a0d9259bc4f422bba83523d767afd33)
 
-- Machine-Learning 스터디 (2022.05 ~ 진행 예정)
-  - 추후 링크 추가 
+- [Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ 진행 중)
+
  
 - [알고리즘 스터디](https://github.com/donga-it-club/Algorithm-Study) (2022.05.01 ~ )
 
