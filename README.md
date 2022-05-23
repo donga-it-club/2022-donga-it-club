@@ -99,76 +99,76 @@
 예) ![image](https://user-images.githubusercontent.com/3435720/163311973-8d35e9c1-edd8-48c4-99d0-3af66862f59e.png)
 
 - [이시연](https://github.com/datasiyeon) - 데이터 분석가 지망  
-![https://github.com/datasiyeon](https://github.com/datasiyeon/datasiyeon/raw/main/github-metrics.svg)
+![https://github.com/datasiyeon](https://github.com/datasiyeon/datasiyeon/blob/main/github-metrics.svg)
 
 - [양윤상](https://github.com/yanggak12) - 프론트엔드 개발자 지망  
-![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/raw/main/github-metrics.svg)
+![https://github.com/yanggak12](https://github.com/yanggak12/yanggak12/blob/main/github-metrics.svg)
 
 - [권미정](https://github.com/kmj-1616) - 데이터 분석가 지망  
-![https://github.com/kmj-1616](https://github.com/kmj-1616/kmj-1616/raw/main/github-metrics.svg)
+![https://github.com/kmj-1616](https://github.com/kmj-1616/kmj-1616/blob/main/github-metrics.svg)
 
 - [김홍원](https://github.com/hongwon2) - 데이터 분석가 지망  
-![https://github.com/hongwon2](https://github.com/hongwon2/hongwon2/raw/main/github-metrics.svg)
+![https://github.com/hongwon2](https://github.com/hongwon2/hongwon2/blob/main/github-metrics.svg)
 
 - [주은진](https://github.com/dunedine) - 데이터 분석가 지망  
-![https://github.com/dunedine](https://github.com/dunedine/dunedine/raw/main/github-metrics.svg)
+![https://github.com/dunedine](https://github.com/dunedine/dunedine/blob/main/github-metrics.svg)
 
 - [이준호](https://github.com/junojano) - 데이터 분석가 지망  
-![https://github.com/junojano](https://github.com/junojano/junojano/raw/main/github-metrics.svg)  
+![https://github.com/junojano](https://github.com/junojano/junojano/blob/main/github-metrics.svg)  
 
 - [최승현](https://github.com/Vulter3653) – MlOps 엔지니어 지망  
-![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/raw/main/github-metrics.svg)
+![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
 - [도기범](https://github.com/GBDO) - 데이터 분석가 지망  
-![https://github.com/GBDO](https://github.com/GBDO/GBDO/raw/main/metrics.plugin.isocalendar.fullyear.svg)
+![https://github.com/GBDO](https://github.com/GBDO/GBDO/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
 - [하은지](https://github.com/EunByu1) - MLOps 엔지니어 지망  
-![https://github.com/EunByu1](https://github.com/EunByu1/EunByu1/raw/main/github-metrics.svg)  
+![https://github.com/EunByu1](https://github.com/EunByu1/EunByu1/blob/main/github-metrics.svg)  
 
 - [김기흥](https://github.com/KimGiheung) - MLOps 엔지니어 지망  
-![https://github.com/KimGiheung](https://github.com/KimGiheung/KimGiheung/raw/main/github-metrics.svg)
+![https://github.com/KimGiheung](https://github.com/KimGiheung/KimGiheung/blob/main/github-metrics.svg)
 
 - [강인영](https://github.com/kio15978) - 데이터 분석가 지망  
-![https://github.com/kio15978](https://github.com/kio15978/kio15978/raw/main/github-metrics.svg)
+![https://github.com/kio15978](https://github.com/kio15978/kio15978/blob/main/github-metrics.svg)
 
 - [박보민](https://github.com/bomin0316) - 데이터 분석가 지망  
-![https://github.com/bomin0316](https://github.com/bomin0316/bomin0316/raw/main/github-metrics.svg)
+![https://github.com/bomin0316](https://github.com/bomin0316/bomin0316/blob/main/github-metrics.svg)
 
 - [서소빈](https://github.com/beeen00) - 데이터 분석가 지망  
-![https://github.com/beeen00](https://github.com/beeen00/beeen00/raw/main/github-metrics.svg)
+![https://github.com/beeen00](https://github.com/beeen00/beeen00/blob/main/github-metrics.svg)
 
 - [정세형](https://github.com/pos1504) - 프론트 엔드, IOS앱 개발 지망  
-![https://github.com/pos1504](https://github.com/pos1504/pos1504/raw/main/github-metrics.svg)
+![https://github.com/pos1504](https://github.com/pos1504/pos1504/blob/main/github-metrics.svg)
 
 - [고근주](https://github.com/KoGJ95) - 데이터 분석가 지망  
-![https://github.com/KoGJ95](https://github.com/KoGJ95/KoGJ95/raw/main/github-metrics.svg)
+![https://github.com/KoGJ95](https://github.com/KoGJ95/KoGJ95/blob/main/github-metrics.svg)
 
 - [이해강](https://github.com/leehg9805) - 데이터 분석가 지망  
-![https://github.com/leehg9805](https://github.com/leehg9805/leehg9805/raw/main/github-metrics.svg)
+![https://github.com/leehg9805](https://github.com/leehg9805/leehg9805/blob/main/github-metrics.svg)
   
 - [김유희](https://github.com/hapen7535) - 프론트 엔드, 안드로이드 개발자 지망  
-![https://github.com/hapen7535](https://github.com/hapen7535/hapen7535/raw/main/github-metrics.svg)  
+![https://github.com/hapen7535](https://github.com/hapen7535/hapen7535/blob/main/github-metrics.svg)  
   
 - [이소정](https://github.com/SoJeOnG52) - 데이터 분석가 지망   
-![https://github.com/SoJeOnG52](https://github.com/SoJeOnG52/SoJeOnG52/raw/main/github-metrics.svg)
+![https://github.com/SoJeOnG52](https://github.com/SoJeOnG52/SoJeOnG52/blob/main/github-metrics.svg)
   
 - [공아영](https://github.com/gongboogi) - 데이터 분석가 지망  
-![https://github.com/gongboogi](https://github.com/gongboogi/gongboogi/raw/main/github-metrics.svg)
+![https://github.com/gongboogi](https://github.com/gongboogi/gongboogi/blob/main/github-metrics.svg)
 
 - [신상훈](https://github.com/rhfo124) - 프론트엔드 개발자 지망  
-![https://github.com/rhfo124](https://github.com/rhfo124/rhfo124/raw/main/github-metrics.svg) 
+![https://github.com/rhfo124](https://github.com/rhfo124/rhfo124/blob/main/github-metrics.svg) 
 
 - [김예나](https://github.com/yeneua) - 데이터 분석가 지망  
-![https://github.com/yeneua](https://github.com/yeneua/yeneua/raw/main/github-metrics.svg)
+![https://github.com/yeneua](https://github.com/yeneua/yeneua/blob/main/github-metrics.svg)
 
 - [황진성](https://github.com/JinseongHwang) - 백엔드+DevOps 개발자 지망    
-![https://github.com/JinseongHwang](https://github.com/JinseongHwang/JinseongHwang/raw/master/github-metrics.svg)
+![https://github.com/JinseongHwang](https://github.com/JinseongHwang/JinseongHwang/blob/master/github-metrics.svg)
 
 - [신정은](https://github.com/jeongeun2017575) - 데이터 분석가 지망  
-![https://github.com/jeongeun2017575](https://github.com/jeongeun2017575/jeongeun2017575/raw/main/github-metrics.svg)
+![https://github.com/jeongeun2017575](https://github.com/jeongeun2017575/jeongeun2017575/blob/main/github-metrics.svg)
 
 - [안주형](https://github.com/dkswnkk) - 백엔드 개발자 지망    
-![https://github.com/dkswnkk](https://github.com/dkswnkk/dkswnkk/raw/master/github-metrics-dkswnkk-sub.svg)
+![https://github.com/dkswnkk](https://github.com/dkswnkk/dkswnkk/blob/master/github-metrics-dkswnkk-sub.svg)
 
 - [공정민](https://github.com/jeongmin59) - 데이터 분석가 지망  
 ![https://github.com/jeongmin59](https://github.com/jeongmin59/jeongmin59/blob/main/github-metrics.svg)
@@ -180,16 +180,16 @@
 ![https://github.com/sunha0915](https://github.com/sunha0915/sunha0915/blob/main/github-metrics.svg)
 
 - [박준석](https://github.com/Junseokee) - 데이터 분석가 지망  
-![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/raw/main/github-metrics.svg)
+![https://github.com/Junseokee](https://github.com/Junseokee/Junseokee/blob/main/github-metrics.svg)
 
 - [김보경](https://github.com/BooGyya) - 데이터 분석가 지망  
 ![https://github.com/BooGyya](https://github.com/BooGyya/BooGyya/blob/main/github-metrics.svg)
 
 - [김가현](https://github.com/GayaKim) - 데이터 분석가 지망  
-![https://github.com/GayaKim](https://github.com/GayaKim/GayaKim/raw/main/github-metrics.svg)
+![https://github.com/GayaKim](https://github.com/GayaKim/GayaKim/blob/main/github-metrics.svg)
 
 - [문송이](https://github.com/songi061) - 데이터 분석가 지망  
-![https://github.com/songi061](https://github.com/songi061/songi061/raw/main/github-metrics.svg)
+![https://github.com/songi061](https://github.com/songi061/songi061/blob/main/github-metrics.svg)
 
 - [이가은](https://github.com/gaeun0915) - 데이터 분석가 지망  
 ![https://github.com/gaeun0915](https://github.com/gaeun0915/gaeun0915/blob/main/github-metrics.svg)
