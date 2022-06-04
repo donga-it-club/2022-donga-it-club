@@ -119,7 +119,7 @@
 - [최승현](https://github.com/Vulter3653) – MlOps 엔지니어 지망  
 ![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
-- [도기범](https://github.com/GBDO) -
+- [도기범](https://github.com/GBDO)  
 ![https://github.com/GBDO](https://github.com/GBDO/GBDO/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
 - [하은지](https://github.com/EunByu1) - MLOps 엔지니어 지망  
