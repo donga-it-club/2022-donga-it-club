@@ -193,3 +193,6 @@
 
 - [이가은](https://github.com/gaeun0915) - 데이터 분석가 지망  
 ![https://github.com/gaeun0915](https://github.com/gaeun0915/gaeun0915/blob/main/github-metrics.svg)
+
+- [정민석](https://github.com/200000001) - 데이터 분석가 지망  
+![https://github.com/200000001](https://github.com/200000001/200000001/blob/main/github-metrics.svg)
