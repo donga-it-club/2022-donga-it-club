@@ -2,7 +2,7 @@
 > 2022년도 동아대 IT 취업 동아리의 활동내역을 정리해 놓은 저장소 입니다. 누구라도 자유롭게 편집 가능합니다.
 
 ## 스터디
-- [SQL 스터디](https://github.com/donga-it-club/sql-study) (2022.04.12 ~ 진행중)
+- [SQL 스터디](https://github.com/donga-it-club/sql-study) (2022.04.12 ~ 2022.07.22)
 
 - [프론트엔드 스터디](https://yoonsang.notion.site/AWS-6a0d9259bc4f422bba83523d767afd33)
 
