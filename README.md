@@ -13,9 +13,11 @@
 
 - [Backend + DevOps 스터디](https://github.com/donga-it-club/Backend-DevOps-Study) (2022.05.07 ~)
 
-- [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~)
+- [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)
 
 - [도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~)
+
+- [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~)
 
 ## 단톡방 정보들
 - [오픈소스 시작하기](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html)
