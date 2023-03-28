@@ -17,7 +17,7 @@
 
 - [도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~)
 
-- [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~)
+- [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
 
 ## 단톡방 정보들
 - [오픈소스 시작하기](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html)
